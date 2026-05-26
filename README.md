@@ -1,4 +1,5 @@
 # 我的第一个MC Mod
+- 这个mod用于我自己开的一个mc服务器的游玩，顺便学习mod开发，mod功能会应群友要求更新。
 
 ## Mod 获取：
 - 只需找到build/libs/myfirstmod.jar即可(不带_source后缀的那个.jar文件)
